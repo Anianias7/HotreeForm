@@ -21,7 +21,7 @@ npm install
 ```
 yarn
 ``` 
-***Remember: the condition to install the required dependencies is to be in the same directory as package.json***
+****Remember: the condition to install the required dependencies is to be in the same directory as package.json****
 ### Start using Hotree
 **After going through all of the above steps** run application in a browser 
 by typing below command in developer console
