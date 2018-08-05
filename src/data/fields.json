@@ -1,0 +1,56 @@
+[
+  {
+    "name": "title",
+    "required": true
+  },
+  {
+    "name": "description",
+    "required": true
+  },
+  {
+    "name": "categories",
+    "required": false
+  },
+  {
+    "name" : "reward",
+    "required": false,
+    "initial_value": 0
+  },
+  {
+    "name" : "payment",
+    "required" : false,
+    "initial_value": "free"
+  },
+  {
+    "name" : "event_fee",
+    "required" : false,
+    "initial_value": 0
+  },
+  {
+    "name" : "period",
+    "required" : false,
+    "initial_value": "am"
+  },
+  {
+    "name" : "date",
+    "required" : true
+  },
+  {
+    "name" : "time",
+    "required" : true
+  },
+  {
+    "name" : "duration",
+    "required" : false,
+    "initial_value": 0
+  },
+  {
+    "name" : "coordinator_id",
+    "required" : false,
+    "initial_value": "3"
+  },
+  {
+    "name" : "email",
+    "required" : false
+  }
+]

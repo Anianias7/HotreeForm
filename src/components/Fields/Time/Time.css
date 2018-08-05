@@ -1,0 +1,19 @@
+.TimeInput {
+    width: 20%;
+    height: 40px;
+    padding: 2%;
+    border-radius: 1px;
+    border-width: 1px;
+    border-style: solid;
+    margin-right: 12px;
+}
+
+.StandardTimeInputBorder {
+    border-color: #D8D8DA;
+}
+
+@media only screen and (max-width: 480px) {
+    .TimeInput {
+        width: 50%;
+    }
+}

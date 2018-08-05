@@ -1,0 +1,17 @@
+.InfoWrapper {
+    display: block;
+}
+
+.Info {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 12px;
+    margin-top: 1px;
+    color: #EAE9E9;
+}
+
+.InfoElement {
+    margin: 0;
+    font-style: italic;
+}

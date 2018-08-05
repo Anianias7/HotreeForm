@@ -1,0 +1,19 @@
+.DateInput {
+    width: 30%;
+    height: 40px;
+    padding: 2%;
+    border-radius: 1px;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.DateInputStandardBorder {
+    border-color: #D8D8DA;
+}
+
+@media only screen and (max-width: 480px) {
+    .DateInput {
+        width: 50%;
+    }
+}
+

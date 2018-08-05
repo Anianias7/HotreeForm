@@ -1,0 +1,25 @@
+.Success {
+    background-color: #EBFFF3;
+    border: 1px solid lightgray;
+    width: 70%;
+    height: auto;
+    margin: 3% auto auto;
+    padding: 1.5%;
+    padding-left: 2%;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.SuccessText {
+    color: #4FD480;
+    margin: 5px;
+}
+
+.SuccessDescription {
+    color: #9FA7A2;
+    margin: 5px;
+}
