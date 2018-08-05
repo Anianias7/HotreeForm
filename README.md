@@ -1,23 +1,23 @@
-#Hotree
-##About
+# Hotree
+## About
 Hotree is a simple social networking platform,
 thanks to which a user can create a new event in an easy and pleasant way.
-##Used Technologies
+## Used Technologies</br>
 Hotree form was written using JavaScript library React.  
 Pure CSS was used to style components.  
 To make class names and animation names scoped 
 locally by default throughout the whole React application
 [CSS Modules](https://github.com/css-modules/css-modules) 
 was used.
-##Installation and Usage
-###Node modules
+## Installation and Usage
+### Node modules
 First step to make the application to work is to install node modules.  
 In developer console install node modules by typing:  
-####npm users
+#### npm users
 ```
 npm install
 ``` 
-####yarn users
+#### yarn users
 ```
 yarn
 ``` 
@@ -25,16 +25,16 @@ yarn
 ### Start using Hotree
 **After going through all of the above steps** run application in a browser 
 by typing below command in developer console
-####npm users
+#### npm users
 ```
 npm start
 ``` 
-####yarn users
+#### yarn users
 ```
 yarn start
 ``` 
-##Presentation of Hotree
-###Event description
+## Presentation of Hotree
+### Event description
 Event can be described by:
 - creative name
 - eye-catching description
@@ -43,7 +43,7 @@ Event can be described by:
 - coordinator in charge
 - rewards points which users can collect for attendance
 - starts date
-###Validation and error handling presentation
+### Validation and error handling presentation
 Mandatory fields:
 ![](./images/title_description.png)
 ![](./images/starts.png)
